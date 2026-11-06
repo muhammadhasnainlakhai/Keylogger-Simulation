@@ -19,3 +19,4 @@ To simulate a basic keylogger in a controlled and safe environment to understand
 This script is strictly for educational purposes. It was created to understand endpoint security and keylogging mechanics. Do not use this on any device without explicit permission.
 
 
+<img width="959" height="475" alt="Screenshot 2026-11-06 233252" src="https://github.com/user-attachments/assets/1b1ad655-1fed-41f6-a310-3833ac6db428" />
